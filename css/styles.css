@@ -1,0 +1,118 @@
+.s-welcome{
+   background-image: url(../images/p1.jpeg); 
+   background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+}
+.s-welcome-overlay {
+   padding-top: 100px;
+   padding-bottom: 100px;
+   background-color: rgba(31, 31, 31, 0.75);
+   
+}
+#quote{
+   font-family: 'Sansita Swashed', cursive;
+   color: #f77d0a;
+   text-align: center;
+   font-size: 5em;
+}
+h2{
+   text-align: center;
+   font-family: 'Sansita Swashed', cursive;
+   padding-top: 20px;
+   padding-bottom: 30px;
+   margin-bottom: 0px;
+   color: black;
+}
+img{
+   height: 400px;
+   width: 600px;
+}
+.image-ac-1{
+   background-image:url(../images/p9.jpeg);
+}
+.image-ac-2{
+   background-image:url(../images/p10.jpeg);
+}
+.image-ac-3{
+   background-image:url(../images/p8.jpeg);
+}
+.image-ac-1,.image-ac-2,.image-ac-3{
+   height: 250px;
+   width: 350px;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   -webkit-background-size: cover;
+   transition: all 1s;
+}
+.image-ac-1:hover{
+   transform: scale(1.1);
+}
+.image-ac-2:hover{
+   transform: scale(1.1);
+}
+.image-ac-3:hover{
+   transform: scale(1.1);
+}
+h3{
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;  
+}
+
+img {
+   height: 250px;
+   width: 350px;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   -webkit-background-size: cover;
+   transition: all 1s;
+}
+img:hover{
+   transform: scale(1.1);
+}
+
+.newline{
+   padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+#map {
+   height: 400px;  /* The height is 400 pixels */
+   width: 100%;  /* The width is the width of the web page */
+  }
+.image-mc-1{
+   background-image:url(../images/location.png);
+   height: 650px;
+   width: 1850px;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   -webkit-background-size: cover;
+}
+#copyright{
+   text-align: center;
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+.s-a{
+   background-color: #e3be89;
+}
+.s-b{
+   background-color: #e5b064;
+}
